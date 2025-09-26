@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Lyrics Lab mobile",
+  "description": "A digital workshop for songwriters to create and structure lyrics, and generate prompts for AI music services like Suno. It features a Song Builder for text and structure, and a Suno Workspace for prompt management.",
+  "requestFramePermissions": []
+}

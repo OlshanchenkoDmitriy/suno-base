@@ -1,0 +1,14 @@
+{
+  "appId": "com.lyrics.lab",
+  "appName": "Lyrics Lab",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "StatusBar": {
+      "style": "DARK"
+    }
+  }
+}
